@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragsingh24&show_icons=true&locale=en" alt="anuragsingh24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsingh24&" alt="anuragsingh24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsingh24&background=0D1117&stroke=fff&ring=ffcc00" alt="anuragsingh24" /></p>
+
