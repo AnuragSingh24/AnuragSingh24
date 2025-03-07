@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@anurag_singh24_" target="blank"><img src="https://img.shields.io/twitter/follow/@anurag_singh24_?logo=twitter&style=for-the-badge" alt="@anurag_singh24_" /></a> </p>
 
-- 🌱 I’m currently learning **React ,Express, MongoDB**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **MERN Stack, SQL**
+- 💬 Ask me about **MERN Stack, SQl, Javascript,**
 
 - 📫 How to reach me **anuragmanish23@gmail.com**
 
